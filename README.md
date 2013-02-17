@@ -1,5 +1,5 @@
-omgrofl.vim
-===========
+E.vim
+=====
 
 This is a Vim syntax file for the [E][e-website]
 language.
